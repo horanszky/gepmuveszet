@@ -31,6 +31,7 @@ StableCog<br />
 <br />
 
 # II. etika - 3
+[-] 1
 
 <br />
 
@@ -43,3 +44,5 @@ StableCog<br />
 <br />
 
 # V. lektor - 1
+
+etikábol [+]1 szabad
